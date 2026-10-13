@@ -30,6 +30,11 @@ codex plugin marketplace add wortise/agent-plugins
 Then open `/plugins` in Codex, or the plugins of the ChatGPT desktop app, and install a plugin
 from `wortise`.
 
+### Cursor
+
+Install a plugin from the Cursor Marketplace, once it's listed there. Each plugin also has a
+`.cursor-plugin/plugin.json` manifest, and this repository a `.cursor-plugin/marketplace.json`.
+
 ### Grok
 
 Add the marketplace `wortise/agent-plugins` and install a plugin from `wortise`.

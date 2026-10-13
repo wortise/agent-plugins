@@ -1,0 +1,24 @@
+{
+  "name": "adsgpt",
+  "displayName": "AdsGPT",
+  "version": "1.0.15",
+  "description": "Create, review and optimize ad campaigns on the ad platforms connected to AdsGPT, such as Google Ads: the AdsGPT MCP server and the skills that guide it.",
+  "author": {
+    "name": "Wortise",
+    "email": "hello@adsgpt.dev",
+    "url": "https://wortise.com"
+  },
+  "homepage": "https://adsgpt.dev",
+  "repository": "https://github.com/wortise/agent-plugins",
+  "license": "MIT",
+  "keywords": [
+    "adsgpt",
+    "advertising",
+    "google-ads",
+    "campaigns",
+    "mcp"
+  ],
+  "logo": "assets/logo.png",
+  "skills": "skills",
+  "mcpServers": "mcp.json"
+}
